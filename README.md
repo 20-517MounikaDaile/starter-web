@@ -17,3 +17,7 @@ Maintaining the project
 ## Checking
 
 checking for the git
+
+## Copyright
+
+Git.training
