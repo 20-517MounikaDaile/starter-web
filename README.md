@@ -9,3 +9,11 @@ Sample website with plenty of files for demos
 ## Deployment
 
 Web Project Deployment
+
+## Maintainance
+
+Maintaining the project
+
+## Checking
+
+checking for the git
